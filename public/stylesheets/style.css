@@ -1,0 +1,55 @@
+label{
+
+
+  font-family: Geneva;
+
+}
+
+form{
+
+  padding-bottom: 50px;
+}
+
+ h1 span{
+background-color: #00BFFF;
+
+}
+
+body{
+
+
+  ;
+
+}
+
+label span{
+
+
+  background-color: #00BFFF;
+  padding-right: 50px;
+  padding-top: 5px
+
+}
+
+button{
+
+padding-bottom: 10px;
+padding-right: 5px;
+font-size: 15px;
+}
+span{
+
+  font-size: 22px;
+}
+label {
+
+  font-size: 25px;
+}
+div {
+    width: 300px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+    background-color: Grey;
+}
+
